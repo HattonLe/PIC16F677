@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TLV431AIDBZRG4
+D Voltage References Lo Vtg Adj Precision Shunt Regulator
+K
+F http://www.ti.com/lit/ds/symlink/tlv431a.pdf
+$ENDCMP
+#
+#End Doc Library

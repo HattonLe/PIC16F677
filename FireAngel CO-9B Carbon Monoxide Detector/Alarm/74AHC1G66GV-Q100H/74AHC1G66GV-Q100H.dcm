@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74AHC1G66GV-Q100H
+D 74AHC(T)1G66-Q100 - Single-pole single-throw analog switch@en-us
+K
+F https://assets.nexperia.com/documents/data-sheet/74AHC_AHCT1G66_Q100.pdf
+$ENDCMP
+#
+#End Doc Library

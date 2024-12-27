@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "74AHC1G66")(type "KiCad")(uri "${KIPRJMOD}/74AHC1G66GV-Q100H/74AHC1G66GV-Q100H.kicad_sym")(options "")(descr ""))
+  (lib (name "YA1U")(type "KiCad")(uri "${KIPRJMOD}/TLV431AIDBZRG4/TLV431AIDBZRG4.kicad_sym")(options "")(descr ""))
+  (lib (name "AlarmLibrary")(type "KiCad")(uri "${KIPRJMOD}/AlarmLibrary.kicad_sym")(options "")(descr ""))
+)
